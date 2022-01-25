@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-country-312017",
+  "private_key_id": "a63156a00f881a7401f34195c3d636a7fe8dcafd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFWgu+04mOfPW4\nJwKryeszBDnRcBnKUtJ2rBLivIaPTdXLkUlJlV9ZweWRrbJu5cnGEZFn+CUnQnAn\n6QfNli8DdKTc0ueiOkRpTDYIUvKAE+qhshRnkDO3s8pdrk1sZ75WhLAnM6OIEDbw\nqWQiRoTC2Vf/dDcNkXZAHzLZ7yVQtCCR2k/joKRLKAFOuFNdtmXlCAwExPJrowt6\nFhmnwWFRd4Hd//O4IA2ADH2ehTIgEuLSNARYm5ZFXUmneErWY48TBU43SSmhmx8T\nRumWR83bzOpde+WHQ+5/lgDT61oKVQCjeQCYRH98qXXby+JGsqIKEWkjATJF8yxD\nUcNfFD+VAgMBAAECggEAD9k2XkHApzezx/EiDsetYrBxMDePaqcSDcOt1JWNPM7k\nX2+wcf9T4/JlTDilvrAnbweUJMRRv4BfX2UgYkswRVfFsZIiVe3V9prPMAXxQYXX\n7tpNNy/mZ1dB5hoMT6tZJruLJerItDGRJ+yChRoiqT8pCPO9RBKta2LWA5hn574b\nL45Rspzh4fWbjLm9eLKY+Rxi8AeaE2BXS0LTNNpwEY0qxQV6avbheqZ7x68afxSJ\nrTaZStAJwHYZVj2RsqT7xU/FQQ+iTysrkGcTEkBzLUn29NpU1OqDdWZ9/24VvMUj\ncUGqqnPWRCMgPx0o2vMcPKWrw6t3XHKhAXf7C1oY1QKBgQD04wvDAsJZ84R1mOlr\nUYwSpgeHOTsymPt1do4Y81myS7gWPaXAxPv+ibtKAzfIonfuCYslANbkwS3LwIIG\ns9Cnku7eonUI1V3/JIW+ZVt4aY6Uj/SXh0QAQKPmKMzshxxF5CVwnurp0IGOIZDg\nAHYi5KIPQFG7URpBzqHoWVvhLwKBgQDOTsOX+NICNvoBaAQ1OGCHHLE7FUCWYaPn\nwDSoPdWd/5uB5R6LEQpzk1VplyxspLYcJZmfgVc5AdVq6l8XbFRtsBIH1lqnAlp3\n8iDfPvSIiFHgiYOGp79RCnbHWXIhsAbDrZ2ZNcls0J4uu3m1j7w4VghChWE/aX1y\npatne5JSewKBgQCdCQO/2AMdf6VPa/EzGqYCR2nIcxDdD3EhEBdrNJIuXZP83ydt\niGQ4A8aQXaPmCxlxEbmizvj+1EozwI0hEyoYa4a2SeNW+MxAEwGY6JJRkw8VgYLN\nsLYQm2L+8ucGPlYJE5ZWs/HcYhLSPAAVRPZ8xbSOpyZCQm3eCU2WG8dpjQKBgCAt\nrNhRWQA7bvc1MCLU7klkskgS4oYSKKyHEC+FpYIFUk4KXJ84QzcPrezQRX+UmUr+\nml2EoQQlQxJwB/DxVqHdKpLKXk1aUp4OyA3KFf4NtSeei0M/etm7Fhe13dVfTU7M\nD57MAuTUDTggybUF/EeVM6icgTSQ0Z5GNNvpLENtAoGAM0rRP7qZmX5V+XfUCDMw\nsxYQNVZYJ0s8FV9ObQ3EMIK7qI/ti8o5DGp/WyhbKkdEtBjAM2gQSsNTid8eIP4x\nfY8WmcaVLmW2JglttQ26hkmMo2qxik3VKg57a1K2RoiuBs35fAYdGhR5jRxXdeF5\nSTbY9O0pCVCNJFvoDtndn5k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowenginerecruit@exalted-country-312017.iam.gserviceaccount.com",
+  "client_id": "102258450934603514244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowenginerecruit%40exalted-country-312017.iam.gserviceaccount.com"
+}
